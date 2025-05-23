@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+a=6,b=7;
+printf("multiply two numbers");
+printf("a*b");
+}
+
