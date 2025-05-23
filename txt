@@ -4,5 +4,8 @@ int main()
 a=6,b=7;
 printf("multiply two numbers");
 printf("a*b");
+printf("Enter the value of b:");
+print s=a+b;
 }
-
+~
+~
